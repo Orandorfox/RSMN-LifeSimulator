@@ -6,7 +6,7 @@
 
 # [👶RSMN-Life Simulator🧓](https://github.com/Orandorfox/RSMN-LifeSimulator/)
 
-🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md) 🇬🇧[English]( https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
+🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/REANME_zh_CN.md) 🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
 
 > *Old age, fearless of death, may transcend youth in courage and in fortitude.*
 >
