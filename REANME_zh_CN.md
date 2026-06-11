@@ -6,7 +6,7 @@
 
 # [👶人生模拟器🧓](https://github.com/Orandorfox/RSMN-LifeSimulator/)
 
-🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
+🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/REANME_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
 
 > *发愤忘食，乐以忘忧，不知老之将至云尔。*
 > 
