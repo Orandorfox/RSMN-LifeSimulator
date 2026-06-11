@@ -1,0 +1,36 @@
+{
+  "theme": {
+    "bgColor": "#020617",
+    "textColor": "#f1f5f9",
+    "cardColor": "#0f172acc",
+    "borderColor": "#334155",
+    "primaryColor": "#059669",
+    "primaryTextColor": "#ffffff",
+    "baseFontSizePx": 16
+  },
+  "content": {
+    "siteName": "人生模拟器",
+    "homeTitle": "人生模拟器",
+    "homeSubtitle": "请输入姓名与学号",
+    "consentTitle": "知情同意书",
+    "contactEmail": "***",
+    "footerText": "本应用仅用于学术研究。遇到问题请联系研究人员。",
+    "cameraHint": "请授予前置摄像头权限，点击拍照按钮开始拍照。",
+    "loadingTitle": "请耐心等待图片生成...",
+    "loadingSubtitle": "请勿关闭页面，预计不超过10秒，生成完毕后请按要求观察图片",
+    "cameraGuideTitle": "拍照提示",
+    "cameraGuideText": "接下来您将进入到拍照环节，请您不要遮挡脸部，也不要佩戴帽子或墨镜，确保背景纯净且没有其他人入镜，如下图所示：",
+    "cameraGuideImage": "shotguide.jpg"
+  },
+  "flow": {
+    "notices": [
+      {
+        "id": "notice-1775465666774",
+        "placement": "beforeCamera",
+        "title": "拍照提示",
+        "body": "接下来您将进入到拍照环节，请您不要遮挡脸部，也不要佩戴帽子或墨镜，确保背景纯净且没有其他人入镜，如下图所示：",
+        "enabled": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 移动优先：防止 iOS 上输入框自动缩放等 */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply min-h-dvh antialiased;
+  background-color: var(--theme-bg, #020617);
+  color: var(--theme-text, #f1f5f9);
+  font-size: var(--theme-font-size, 16px);
+}
