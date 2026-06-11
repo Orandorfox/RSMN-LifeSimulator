@@ -60,4 +60,4 @@
 5️⃣ Fill in other missing text due to anonymization process
 ***
 
-✉️ If you have any questions about the process, feel free to leave them in the comments section of this project.
+✉️ If you have any questions about the process, feel free to leave them in the comments section of this project
