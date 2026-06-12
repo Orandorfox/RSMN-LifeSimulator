@@ -25,7 +25,7 @@
 ***
 
 ### Life Simulator is an image aging tool developed on the basis of the AI-generated image large model
-✅ Calling the AliCloud Thousand Questions Big Model
+✅ Calling the AliCloud Qwen Big Model
 
 ✅ Rely on Node.js to build it
 
