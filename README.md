@@ -4,15 +4,17 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/readme-image/RSMN.jpg">
 </picture>
 
-# [👶RSMN-Life Simulator🧓](https://github.com/Orandorfox/RSMN-LifeSimulator/)
+<h1 align="center">👶RSMN-Life Simulator🧓</h1>
 
-🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
-
-> *Old age, fearless of death, may transcend youth in courage and in fortitude.*
->
-> **--Marcus Tullius Cicero / On Old Age (De Senectute)**.
+<h3 align="center">
+ Old age, fearless of death, may transcend youth in courage and in fortitude. 
+ 
+--Marcus Tullius Cicero / On Old Age (De Senectute).
+</h3>
 
 ***
+🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
+
 ### Note
 ⚠️ This project is an important part of our research team's latest scientific achievements. It is now anonymized and open-sourced in order to meet the requirements of peer review during the paper submission process.
 
