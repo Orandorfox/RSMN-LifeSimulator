@@ -7,7 +7,7 @@
 <h1 align="center">👶RSMN-Life Simulator🧓</h1>
 
 <h3 align="center">
- Old age, fearless of death, may transcend youth in courage and in fortitude. 
+Old age, fearless of death, may transcend youth in courage and in fortitude. 
  
 --Marcus Tullius Cicero / On Old Age (De Senectute).
 </h3>
