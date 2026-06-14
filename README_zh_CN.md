@@ -4,15 +4,17 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/readme-image/RSMN.jpg">
 </picture>
 
-# [👶人生模拟器🧓](https://github.com/Orandorfox/RSMN-LifeSimulator/)
+<h1 align="center">👶人生模拟器🧓</h1>
 
-🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
-
-> *发愤忘食，乐以忘忧，不知老之将至云尔。*
-> 
-> **——《论语·述而篇》**
+<h3 align="center">
+发愤忘食，乐以忘忧，不知老之将至云尔。
+ 
+——《论语·述而篇》
+</h3>
 
 ***
+🇨🇳[中文](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README_zh_CN.md)    🇬🇧[English](https://github.com/Orandorfox/RSMN-LifeSimulator/blob/main/README.md)
+
 ### 注意
 ⚠️ 该项目为我们的研究团队最新科研成果的重要组成部分。为了满足论文投稿过程中同行评审的要求，现进行匿名化开源。
 
