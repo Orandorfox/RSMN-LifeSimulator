@@ -27,7 +27,7 @@ Old age, fearless of death, may transcend youth in courage and in fortitude.
 ***
 
 ### Life Simulator is an image aging tool developed on the basis of the AI-generated image large model
-✅ Calling the AliCloud Qwen Big Model
+✅ Calling the Alibaba Cloud Qwen Big Model
 
 ✅ Rely on Node.js to build it
 
